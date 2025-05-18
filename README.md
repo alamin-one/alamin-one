@@ -1,4 +1,4 @@
-### Hi there 👋, md.Alamin
+### Hi there 👋, i'm md.Alamin
 #### Web  Developer
 ![Web  Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
