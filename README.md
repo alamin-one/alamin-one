@@ -64,9 +64,9 @@ Secure messaging platform with authentication and real-time communication.
 
 ## 📫 Connect with Me
 
-- 🌐 Portfolio: https://your-portfolio.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 📧 Email: your@email.com
+- 🌐 Portfolio: [https://your-portfolio.com](https://alaminhosen.vercel.app/)
+- 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/alamin-one/)
+- 📧 Email: alamin1developer@gmail.com
 
 ---
 
