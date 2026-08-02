@@ -1,18 +1,9 @@
-<h1 align="center">Hi 👋, I'm Al Amin</h1>
-
-<h3 align="center">
-Full Stack Developer from Bangladesh 🇧🇩
-</h3>
-
-<p align="center">
-Building Fast, Secure & Scalable Web Applications
-</p>
-
+<h1 align="start">Hi 👋, I'm Al Amin</h1>
 <p align="center">
   <img src="./_banner.png" alt="Banner" width="100%">
 </p>
 
-<p align="center">
+<p align="start">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=00A8D9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Next.js+Developer;React+%7C+TypeScript;MongoDB+%7C+Prisma;Always+Learning+New+Things"/>
 </p>
 
@@ -44,7 +35,7 @@ Building Fast, Secure & Scalable Web Applications
 
 # 🛠 Tech Stack
 
-<p align="center">
+<p align="start">
 <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,nodejs,mongodb,prisma,tailwind,git,github,vercel,vscode,cloudflare&perline=6"/>
 </p>
 
@@ -83,7 +74,7 @@ Authentication system with Google Login, Credentials Login, Role Based Access Co
 
 # 📈 GitHub Analytics
 
-<p align="center">
+<p align="start">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=alamin-one&show_icons=true&theme=tokyonight&hide_border=true"/>
 
@@ -91,7 +82,7 @@ Authentication system with Google Login, Credentials Login, Role Based Access Co
 
 </p>
 
-<p align="center">
+<p align="start">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alamin-one&theme=tokyonight&hide_border=true"/>
 
@@ -114,7 +105,7 @@ Authentication system with Google Login, Credentials Login, Role Based Access Co
 
 # 📬 Contact Me
 
-<p align="center">
+<p align="start">
 
 <a href="https://YOUR-PORTFOLIO-LINK.vercel.app">
 <img src="https://img.shields.io/badge/🌐_Portfolio-00A8D9?style=for-the-badge"/>
@@ -130,7 +121,7 @@ Authentication system with Google Login, Credentials Login, Role Based Access Co
 
 </p>
 
-<p align="center">
+<p align="start">
 
 - 🌐 Portfolio: [https://alaminhosen.vercel.app/](https://alaminhosen.vercel.app/)
 
