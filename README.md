@@ -1,5 +1,6 @@
 <h1 align="start">Hi 👋, I'm Al Amin</h1>
-<p align="center">
+
+<p align="start">
   <img src="./_banner.png" alt="Banner" width="100%">
 </p>
 
@@ -7,23 +8,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=00A8D9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Next.js+Developer;React+%7C+TypeScript;MongoDB+%7C+Prisma;Always+Learning+New+Things"/>
 </p>
 
-<p align="center">
-  <a href="https://YOUR-PORTFOLIO-LINK.vercel.app">
+<p align="start">
+  <a href="https://alaminhosen.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/alamin-one/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:alamin1developer@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 - 💻 Full Stack Web Developer
 - ⚛️ Specialized in Next.js & React
@@ -33,64 +32,38 @@
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p align="start">
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,nodejs,mongodb,prisma,tailwind,git,github,vercel,vscode,cloudflare&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,nodejs,mongodb,prisma,tailwind,git,github,vercel,vscode,cloudflare"/>
 </p>
 
 ---
 
-# 📌 Featured Projects
+## 💼 Featured Projects
 
-## 🛒 Next Commerce
+**Developer Portfolio**
+A modern portfolio built with Next.js featuring animations, responsive UI, and optimized performance.
 
-> A production-ready full stack e-commerce application.
-
-**Tech Stack**
-
-- Next.js
-- TypeScript
-- MongoDB
-- Prisma
-- NextAuth
-- Stripe
-- Cloudinary
-- Tailwind CSS
+**Authentication System**
+Authentication system with Google Login, Credentials Login, Role-Based Access Control, and Protected Routes.
 
 ---
 
-## 💼 Developer Portfolio
-
-A modern portfolio built with Next.js featuring animations, responsive UI and optimized performance.
-
----
-
-## 🔐 Authentication System
-
-Authentication system with Google Login, Credentials Login, Role Based Access Control and Protected Routes.
-
----
-
-# 📈 GitHub Analytics
+## 📈 GitHub Analytics
 
 <p align="start">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alamin-one&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin-one&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alamin-one&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin-one&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="start">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alamin-one&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alamin-one&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 Current Focus
+## 🔥 Current Focus
 
 - 🚀 Next.js App Router
 - ⚛️ React
@@ -103,67 +76,51 @@ Authentication system with Google Login, Credentials Login, Role Based Access Co
 
 ---
 
-# 📬 Contact Me
+## 📬 Contact Me
 
 <p align="start">
-
-<a href="https://YOUR-PORTFOLIO-LINK.vercel.app">
-<img src="https://img.shields.io/badge/🌐_Portfolio-00A8D9?style=for-the-badge"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
+  <a href="https://alaminhosen.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-00A8D9?style=for-the-badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alamin-one/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:alamin1developer@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
-<p align="start">
-
-- 🌐 Portfolio: [https://alaminhosen.vercel.app/](https://alaminhosen.vercel.app/)
-
-- 💼 LinkedIn: [https://linkedin.com/in/alamin-one/](https://www.linkedin.com/in/alamin-one/)
-
+- 🌐 Portfolio: [alaminhosen.vercel.app](https://alaminhosen.vercel.app/)
+- 💼 LinkedIn: [linkedin.com/in/alamin-one](https://www.linkedin.com/in/alamin-one/)
 - 📧 Email: alamin1developer@gmail.com
 
+---
+
+## 🧰 Tools
+
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=figma,postman,npm,pnpm,bun,git"/>
 </p>
 
 ---
 
-# 🧰 Tools
+## 📊 Activity Graph
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=figma,postman,npm,pnpm,bun,git"/>
-
+<p align="start">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alamin-one&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# 📊 Activity Graph
+## 👀 Profile Views
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alamin-one&theme=tokyo-night&hide_border=true"/>
-
+<p align="start">
+  <img src="https://komarev.com/ghpvc/?username=alamin-one&label=Profile%20Views&color=00A8D9&style=for-the-badge"/>
 </p>
 
 ---
 
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=alamin-one&label=Profile%20Views&color=00A8D9&style=for-the-badge"/>
-
-</p>
-
----
-
-<div align="center">
+<div align="start">
 
 ### 💙 Thanks for visiting my profile!
 
